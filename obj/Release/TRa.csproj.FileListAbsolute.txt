@@ -1,0 +1,16 @@
+C:\Users\Pandax40\source\repos\TR\TR\bin\Release\TR.exe.config
+C:\Users\Pandax40\source\repos\TR\TR\bin\Release\TR.exe
+C:\Users\Pandax40\source\repos\TR\TR\bin\Release\TR.pdb
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\Theme\TextBoxStyle.baml
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\MainWindow.g.cs
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\App.g.cs
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR_MarkupCompile.cache
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR_MarkupCompile.lref
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\App.baml
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\MainWindow.baml
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR.g.resources
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR.Properties.Resources.resources
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TRa.csproj.GenerateResource.cache
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TRa.csproj.CoreCompileInputs.cache
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR.exe
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR.pdb

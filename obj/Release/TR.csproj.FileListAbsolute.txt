@@ -1,0 +1,16 @@
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\MainWindow.g.cs
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\App.g.cs
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\App.baml
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\MainWindow.baml
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR.csproj.GenerateResource.cache
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR.csproj.CoreCompileInputs.cache
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\Theme\TextBoxStyle.baml
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\TR.Properties.Resources.resources
+C:\Users\Pandax40\source\repos\TR\TR\bin\Release\HostService.exe.config
+C:\Users\Pandax40\source\repos\TR\TR\bin\Release\HostService.exe
+C:\Users\Pandax40\source\repos\TR\TR\bin\Release\HostService.pdb
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\HostService_MarkupCompile.cache
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\HostService_MarkupCompile.lref
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\HostService.g.resources
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\HostService.exe
+C:\Users\Pandax40\source\repos\TR\TR\obj\Release\HostService.pdb
